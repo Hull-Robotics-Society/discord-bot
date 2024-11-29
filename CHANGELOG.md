@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Hull-Robotics-Society/hullrs-bot/compare/v1.0.0...v1.1.0) (2023-11-27)
+
+
+### Features
+
+* Add lock and unlock commands ([cfb6366](https://github.com/Hull-Robotics-Society/hullrs-bot/commit/cfb636606aae3ae5314455d59579039a5748c4af))
+
 ## 1.0.0 (2022-12-19)
 
 ### ⚠ BREAKING CHANGES
